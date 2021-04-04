@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@import 'fonts';
+
+body{
+    background-color: #f7f7f2 !important;
+    font-family: $regular;
+}
+@import 'text';
+@import 'home';
+@import 'cards';
+
+
+@import 'bootstrap/functions';
+@import 'bootstrap/variables';
+@import 'bootstrap/root';
+@import 'bootstrap/mixins';
+@import 'bootstrap/buttons';
+@import 'bootstrap/root';
+
+
