@@ -90,6 +90,10 @@ footer .footer-quick-info {
   display: block;
 }
 
+footer p {
+  font-weight: 600;
+}
+
 /*---------------------------------------------------------------------- /
 SECTIONS
 ----------------------------------------------------------------------- */
@@ -296,7 +300,7 @@ CARDS
   display: block;
   left: 0;
   top: 0;
-  table: "";
+  table-layout: "";
   background-color: rgba(0, 0, 0, 0.56);
   border-radius: 6px;
 }
